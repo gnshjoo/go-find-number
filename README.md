@@ -11,6 +11,6 @@
 - fmt
 - tim
 
-    *** go 1.20.0 버전에서 math/rand 패키지의 rand.Seed() 함수는 Deprecated 되어서 사용방법이 달라졌다.
+***go 1.20.0 버전에서 math/rand 패키지의 rand.Seed() 함수는 Deprecated 되어서 사용방법이 달라졌다.***
 
 
